@@ -1,2 +1,2 @@
 # iveui_jquery
-freeive ui component roel jquery  version
+freeive ui component jquery  version
